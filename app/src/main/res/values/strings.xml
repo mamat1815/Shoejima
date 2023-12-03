@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Shoejima</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="desc_unyellow"> </string>
+    <string name="desc_deep">Deep Cleaning adalah paket cuci seluruh bagian sepatu luar maupun dalam. Untuk proses pengerjaan memakan waktu selama 2 hari.</string>
+
+    <string name="service_name">Nama Layanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="mencuci">Mencuci</string>
+    <string name="metodeLaundryProfesionalDanHigienis">Metode laundry profesional dan higienis</string>
+    <string name="done">Done</string>
+    <string name="welcome_to_sneakersuds">Welcome to SneakerSuds</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="history">History</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_out">Log Out</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="kembali">Kembali</string>
+    <string name="profileacc">Profile</string>
+
+    <string-array name="data_layanan">
+        <item>Deep Clean</item>
+        <item>Unyellowing</item>
+        <item>Repaint</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Deep Cleaning adalah paket cuci seluruh bagian sepatu luar maupun dalam. Untuk proses pengerjaan memakan waktu selama 2 hari.</item>
+        <item>Unyellowing adalah paket cuci seluruh bagian sepatu luar dan dalam untuk sepatu yang sudah menguning. Proses pengerjaan selama 4 hari.</item>
+        <item>Repaint adalah pewarnaan sepatu pada bagian midsole, paket ini sudah termasuk cuci Deep Cleaning. Proses pengerjaan selama 5 hari.</item>
+    </string-array>
+
+    <string-array name="data_prize">
+        <item>40000</item>
+        <item>80000</item>
+        <item>100000</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/deep</item>
+        <item>@drawable/unyellow</item>
+        <item>@drawable/repaint</item>
+    </integer-array>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>
